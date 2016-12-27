@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">rxjava</string>
+
+    <!--features-->
+    <string name="feature1">RxBus</string>
+    <string name="feature2">Pagination</string>
+    <string name="feature3">RxLogin</string>
+    <string name="feature4">Debounce</string>
+
+
+</resources>
